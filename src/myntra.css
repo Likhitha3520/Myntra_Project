@@ -1,0 +1,122 @@
+#selectMen{
+    
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20px 20px;
+    font-size: 15px;
+    border-color: white;    
+    width:100px
+}
+#selectWomen{
+    margin:20px 80px 20px 20px;
+    padding:20px 20px 20px 20px;
+    font-size: 15px;
+    border-color: white;
+    width:130px
+}
+#selectProfile{
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20px 20px;
+    font-size: 15px;
+    border-color: white;
+    width:120px
+}
+#input{
+    margin:20px 20px 0px 100px;
+    padding:5px 10px 5px 10px;
+    width:300px;
+    height: 20px;
+    font-size: 15px;
+}
+#wishlist,#bag{
+    margin:20px 30px 20px 600px;
+    padding:20px 20px 20px 20px;
+    width:100px;
+    font-size: 15px;
+    border-color: white;
+    background-color: white;
+
+}
+#logo{
+    margin:20px 20px 20px 30px;
+    padding:0px 0px 0px 0px; 
+    border-color: white;
+    background-color: white;
+    border: 2px solid white;
+}
+.card,.topBrand{
+    display:flex;
+    margin:50px 0px 50px 0px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+#explore{
+    justify-content: center;
+    text-align: center;
+}
+.data{
+    display:flex;
+    margin:50px 50px 50px 50px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#link{
+    margin:0px 50px 10px 500px;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+#display{
+    justify-content: center;
+    align-items: center;
+}
+.notification1{
+    
+        
+        
+        text-decoration: none;
+        padding: 15px 3px;
+        position: relative;
+        display: inline-block;
+        
+      
+}
+.notification1 .badge1{
+    position: absolute;
+    top: -3px;
+    right: -1px;
+    padding: 3px 8px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+}
+.container{
+    display: flex;
+    margin-top: 20px;
+}
+.notification{
+   
+ 
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  
+}
+.notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -1px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+  }
+  #profile{
+    margin:20px 20px 20px 30px;
+    padding:0px 0px 0px 0px; 
+    border-color: white;
+    background-color: white;
+    border: 2px solid white; 
+  }
+

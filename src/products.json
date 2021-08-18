@@ -1,0 +1,359 @@
+[
+    {
+      "name": "Tshirt",
+        "products": [
+          {
+        
+        "brand": "Rapido",
+        "price": "Rs.324",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2378362/2018/6/9/270e0a7e-365b-4640-9433-b269c60bf3061528527188563-Moda-Rapido-Men-Maroon-Printed-Round-Neck-T-shirt-3811528527-1.jpg"
+    },
+    {
+        
+        "brand": "puma",
+        "price": "Rs.455",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7546902/2019/2/11/be44366c-a232-47ec-a7b4-c4bea24f04e71549886561293-HERENOW-Men-Teal-Solid-Polo-Collar-T-shirt-7371549886559966-1.jpg"
+    },
+    {
+        
+        "brand": "Adidas",
+        "price": "Rs.520",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2308267/2018/1/29/11517216335231-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-5591517216335098-1.jpg"
+    },
+    {
+        
+        "brand": "Gant",
+        "price": "Rs.600",
+        "imageurl": " https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13222884/2021/1/18/f080a8b9-eb4b-4a23-8640-2db1edca8f241610948287891-Mast--Harbour-Men-Tshirts-9701610948286431-1.jpg"
+    },
+    {
+        
+        "brand": "H&M",
+        "price": "Rs.399",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4318091/2019/5/8/c0e24a77-4369-42ae-98c4-b583e5375dbf1557297643554-HERENOW-Men-White--Coral-Pink-Colourblocked-Polo-Collar-T-sh-1.jpg"
+    },
+    {
+        
+        "brand": "Fido",
+        "price": "Rs.600",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10016983/2019/6/20/b5caaca7-b5e8-4134-9283-65473a2388031561026348090-Campus-Sutra-Men-Blue-Colourblocked-Round-Neck-T-shirt-99915-1.jpg"
+    },
+    {
+        
+        "brand": "Gant",
+        "price": "Rs.430",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2221Rs.324/2017/11/23/11511442588948-Moda-Rapido-Men-White-Printed-Round-Neck-T-shirt-9601511442588767-3.jpg"
+    },
+    {
+        
+        "brand": "Adidas",
+        "price": "Rs.840",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12003902/2020/7/27/d890afe0-cff4-4de8-8b83-3afea9f6fdb11595844856992-Roadster-Men-White-Printed-Round-Neck-T-shirt-28159584485559-1.jpg"
+    },
+    {
+        
+        "brand": "H&M",
+        "price": "Rs.330",
+        "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11456884/2020/6/17/ceabc89f-a68a-465f-8103-d602c1513ef31592390307026-Roadster-Men-Green--Black-Colourblocked-Polo-Collar-T-shirt--1.jpg"
+    }
+        ]
+    },
+    {
+        "name": "Casualshirts",
+        "products": [
+            {
+                
+                "brand": "Rapido",
+                "price": "Rs.324",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2414313/2018/3/13/11Rs.520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881Rs.520926368447-1.jpg"
+            },
+            {
+                
+                "brand": "puma",
+                "price": "Rs.455",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/1/31/0b300b40-ce43-42cf-88e7-644cb2c16c981580420319227-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.520",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14811382/2021/7/26/62f65fd0-e4cf-4ec4-8eea-20b1fbd18fa51627300472232-Campus-Sutra-Men-Shirts-1861627300471611-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.600",
+                "imageurl": " https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1729391/2019/8/28/a9d4a7aa-af7e-4a37-a9d4-a94dc8c057e81566992341974-WROGN-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-52415669923403-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.399",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11369826/2020/6/14/3bbecb2e-42ec-4d95-90e9-f32dc3aee86c1592107001613RoadsterMenCharcoalGreyRegularFitSolidJoggersShirtsMastHarbo1.jpg"
+            },
+            {
+                
+                "brand": "Fido",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2478263/2020/3/10/bfa8931b-c4b4-4788-a8c2-5c5abc2dcda51583836541684-WROGN-Men-Black--Grey-Slim-Fit-Checked-Casual-Shirt-21215838-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.430",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2221Rs.324/2017/11/23/11511442588948-Moda-Rapido-Men-White-Printed-Round-Neck-T-shirt-9601511442588767-3.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.840",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/9578fd70-ff10-4924-ac27-776a20bc59301624019881748-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.330",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11194984/2019/12/31/0d30ad05-aeb8-4f4f-8619-f5d22df48cbb1577790673555-Mast--Harbour-Men-Shirts-5271577790672316-1.jpg"
+            }
+        ]
+
+    },
+    {
+        
+        "name":"Formalshirts",
+        "products": [
+            {
+                "name":"Formalshirts",
+                "brand": "Rapido",
+                "price": "Rs.324",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/1/17/e26ed663-b093-4c79-8ebc-249d1f0ed92e1579211471998-5.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "puma",
+                "price": "Rs.455",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14311512/2021/6/4/470f0486-045e-4ce1-9e3f-41fc1598f68b1622789102779ETCWomenPinkBlackPolkaDotPrintedNightSuitKurtaSetsallaboutyo6.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "Adidas",
+                "price": "Rs.520",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/689429/2019/1/8/8f47c0ab-74b7-4f09-ab5e-466c901d700c1546925953208-INVICTUS-Supima-Men-White--Blue-Checked-Slim-Fit-Formal-Shir-6.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "Gant",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/22/edfd2eb9-f243-4ffd-b29a-236778ea73bf1576970626447-1.jpg "
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "H&M",
+                "price": "Rs.399",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/7/8/d9072f7b-d27d-4dfe-aae1-2bf72391250c1625743717358-1.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "Fido",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14089368/2021/6/19/0d2d2167-e917-4758-871d-565ca5bba8091624106599565SojanyaSince1958MensCottonMetallicGoldWhitePrintedFormalShir1.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "Gant",
+                "price": "Rs.430",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14816160/2021/8/3/15a8b1b0-db0f-40d7-890a-40e0466415261627984627456-Louis-Philippe-Men-Shirts-9571627984626897-1.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "Adidas",
+                "price": "Rs.840",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14311508/2021/6/4/0950104b-3f0b-4076-a045-45b048f235c91622789127414ETCWomenPinkBlackPolkaDotPrintedNightSuitKurtaSetsallaboutyo1.jpg"
+            },
+            {
+                "name":"Formalshirts",
+                "brand": "H&M",
+                "price": "Rs.330",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1086748/2016/4/12/11460459622659-INVICTUS-Navy-Slim-Fit-Casual-Shirt-4721460459622021-1.jpg"
+            }
+        ]
+    },
+    {
+        "name":"Kurtas",
+        "products":[
+            {
+                
+                "brand": "Rapido",
+                "price": "Rs.324",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/7/5bf685b5-a6ab-4b0c-9934-94d19a359fe21617792700111-1.jpg"
+            },
+            {
+                
+                "brand": "puma",
+                "price": "Rs.455",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1943380/2018/4/13/11523618593397-Vishudh-Women-Black-Printed-A-Line-Kurta-4331523618593198-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.520",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7319923/2018/9/18/ce061dc6-ffa8-4a5a-8776-504b8b78c9201537247723236-Libas-Women-Yellow--White-Printed-Kurta-with-Palazzos--Dupatta-5961537247722978-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13828994/2021/6/25/8c6ac015-10c8-4bf9-93a1-d7519e5ac7ef1624606771907-Sangria-Women-Kurta-Sets-3251624606771212-1.jpg "
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.399",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10513948/2019/9/4/e515a887-a59f-48bf-a53b-0181c4381a431567580918498-Anubhutee-Women-Kurtas-991567580917526-1.jpg"
+            },
+            {
+                
+                "brand": "Fido",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11636314/2020/3/9/c95c3439-c1d1-4ff9-bbfc-fe48d5c8c1d91583728101213-Shae-by-SASSAFRAS-Women-Blue--White-Printed-A-Line-Kurta-480-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.430",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10808284/2019/10/30/c35d059d-a357-4863-bcb1-eacd8c988fb01572422803188-AHIKA-Women-Kurtas-8841572422802083-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.840",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.330",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13515828/2021/3/9/3c9ae2a6-d702-460e-8112-fe9327794a891615295030445IndoEraNavyBlueSolidStraightKurtaTrouserWithDupattaSets1.jpg"
+            }
+        ]
+    },
+    {
+        "name":"leggins",
+        "products":[
+            {
+                
+                "brand": "Rapido",
+                "price": "Rs.324",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2703312/2018/3/14/11521024877464-Go-Colors--Leggings-9781521024877287-1.jpg"
+            },
+            {
+                
+                "brand": "puma",
+                "price": "Rs.455",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4891828/2019/11/7/11b0f73a-4577-4c18-a364-b15d53d2333e1573103532105-Go-Colors-Women-Copper--Toned-Solid-Ankle-Length-Leggings-59-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.520",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4891824/2018/5/5/11525511742657-Go-Colors-Women-Navy-Solid-Cropped-Leggings-7031525511742511-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/26/c5f5ae3d-6cdb-43c2-a277-91847f25d7061624692207450-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.399",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4891828/2019/11/7/11b0f73a-4577-4c18-a364-b15d53d2333e1573103532105-Go-Colors-Women-Copper--Toned-Solid-Ankle-Length-Leggings-59-1.jpg"
+            },
+            {
+                
+                "brand": "Fido",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4891824/2018/5/5/11525511742657-Go-Colors-Women-Navy-Solid-Cropped-Leggings-7031525511742511-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.430",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/4891828/2019/11/7/11b0f73a-4577-4c18-a364-b15d53d2333e1573103532105-Go-Colors-Women-Copper--Toned-Solid-Ankle-Length-Leggings-59-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.840",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2703312/2018/3/14/11521024877464-Go-Colors--Leggings-9781521024877287-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.330",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14268568/2021/7/19/a21670bf-8fe5-4158-9bea-70b13c59f3571626691287391-HERENOW-Women-Leggings-6051626691286782-1.jpg"
+            }
+        ]
+    },
+    {
+        "name":"sarees",
+        "products":[
+            {
+                
+                "brand": "Rapido",
+                "price": "Rs.324",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13903168/2021/4/17/638f7420-e644-462e-a484-d6b87e146ee51618644035247-Anouk-Sea-Green-Pure-Georgette-Printed-Dark-Floral--Daily-We-1.jpg"
+            },
+            {
+                
+                "brand": "puma",
+                "price": "Rs.455",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13901220/2021/4/12/ecaac2a1-036c-4c1d-b5a9-2c025a235a7b1618227724245-Saree-Mall-Rust-Organza-Ethnic-Floral-Print-Casual-Wear-Sare-1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.520",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11510258/2020/3/11/55b31058-6f7e-4c0f-b280-fca799c0c77c1583907999610-White--Pink-Floral-Digital-Print-Design-Oraganza-Saree-With--1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7715819/2018/10/30/73757f81-139d-4c17-81d1-6a4deb0ccd691540883613501-Mitera-Navy-Blue-Silk-Blend-Solid-Kanjeevaram-Saree-9911540883613298-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.399",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13901182/2021/4/14/478327d1-39b7-4f9e-9e42-e7c2bc4241741618384344799-Saree-Mall-Navy-Blue-Jute-Silk-Ethnic-Floral-Print-Casual-We-1.jpg"
+            },
+            {
+                
+                "brand": "Fido",
+                "price": "Rs.600",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/25/a6e9958d-e426-46c9-aca9-9f0ff32a2ec51624643756483-1.jpg"
+            },
+            {
+                
+                "brand": "Gant",
+                "price": "Rs.430",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11510258/2020/3/11/55b31058-6f7e-4c0f-b280-fca799c0c77c1583907999610-White--Pink-Floral-Digital-Print-Design-Oraganza-Saree-With--1.jpg"
+            },
+            {
+                
+                "brand": "Adidas",
+                "price": "Rs.840",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13901220/2021/4/12/ecaac2a1-036c-4c1d-b5a9-2c025a235a7b1618227724245-Saree-Mall-Rust-Organza-Ethnic-Floral-Print-Casual-Wear-Sare-1.jpg"
+            },
+            {
+                
+                "brand": "H&M",
+                "price": "Rs.Rs.330",
+                "imageurl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13903168/2021/4/17/638f7420-e644-462e-a484-d6b87e146ee51618644035247-Anouk-Sea-Green-Pure-Georgette-Printed-Dark-Floral--Daily-We-1.jpg"
+            }
+        ]
+    }
+    
+    ]
